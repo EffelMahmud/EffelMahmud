@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/EffelMahmud/EffelMahmud/commits?author=EffelMahmud)
+![Design and Development](https://github.com/EffelMahmud/EffelMahmud/blob/main/Effel.jpg)
 
 ### Hi there 👋, I'm Islam Mahmud Effel
 #### Design and Development
